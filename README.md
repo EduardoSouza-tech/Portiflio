@@ -9,7 +9,7 @@
 
 Portfólio profissional moderno e responsivo, desenvolvido para apresentar meus projetos, habilidades e experiência profissional como Desenvolvedor Full Stack e Analista de Sistemas.
 
-**🔗 [Ver Portfólio Online](https://seu-usuario.github.io/seu-repositorio/)**
+**🔗 [Ver Portfólio Online](https://eduardosouza-tech.github.io/Portiflio/)**
 
 ---
 
